@@ -51,7 +51,7 @@
 		}
 	},
 	"hostRequirements": {
-		"storage": "10gb",
+		"storage": "25gb",
 		"cpus": 4
 	},
 	"remoteUser": "builduser",
